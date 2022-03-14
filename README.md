@@ -1,0 +1,2 @@
+# hello-kpg
+programming study
